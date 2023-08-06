@@ -10,8 +10,8 @@ Tolulope is the best
 
 ---
 #### [Linked File Project](/files/iFood Doordash Portfolio Presentation 3.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/iFood Doordash cover image.png"/>
+For this project, I explored what a good analytics PowerPoint presentation should entail. It has key insights, ties data to the business value and much more. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
