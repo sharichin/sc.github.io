@@ -5,8 +5,11 @@
 ### Learn About My Projects
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/Massachusetts Education Overview.png"/>
+In this case study from Data Analytics Accelerator, I was prompted to analyze the state of Massachusetts education data. The main focuses were:
+What schools are struggling the most?
+How does class size affect college admission?
+What are the top math schools in the state? 
 
 ---
 #### [Linked File Project](/files/iFood Doordash Portfolio Presentation 3.pdf)
