@@ -64,7 +64,7 @@ Up until this point, I focused on high schools and students’ college attendanc
 
 The state of Massachusetts believes the MCAS 4th Grade Math test scores could play a role in students’ success. I used the Avg % MCAS 4th Grade Math P + A metric and the district name metric to create a line chart showing the top 10 districts with the highest average passing rate over 50%. We can use this data to see which methods the high-performing districts were using and train teachers to replicate these methodologies in low-performing districts that need improvement. Hingham Elementary was the top school with an Avg % MCAS score of 91%.  Hingham Elementary has the highest average score of 91%, while Westfield Elementary's score is just 49%. What sets Hingham and Winchester apart?
 
-<img src=" "/>
+<img src="images/Avg Passing 4th Grade Math Line Chart.png"/>
 
 #### Insights and Recommendations
 With this report, I recommend the state not build more high schools for the purpose of increasing students’ college attendance rates. I would suggest the state focus its efforts on replicating high-performing teaching methodologies in low-performing schools.
