@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Internal Blog Post Project](/education_project)
 <img src="images/Massachusetts Education Overview.png"/>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the state of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
