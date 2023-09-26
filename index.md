@@ -17,9 +17,9 @@ What are the top math schools in the state?
 For this project, I explored what a good analytics PowerPoint presentation should entail. It has key insights, ties data to the business value and much more. 
 
 ---
-#### [Linked File Project](/files/iFood Doordash Portfolio Presentation 3.pdf)
-<img src="images/iFood Doordash cover image.png"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It has key insights, ties data to the business value and much more.
+#### [Linked File Project](/files/Python Manufacturing Presentation.pdf)
+<img src=""/>
+In this project, I provided analysis using mineral ore flotation testing for a manufacturing mining company. I was asked to investigate an incident that occurred June 1, 2017 by observing the changes in mineral concentration hourly throughout the day. To do this, I analyzed the following  4 main variables: % Iron Concentrate, % Silica Concentrate, Ore pulp pH, and Flotation Column 05 Level. 
 
 ---
 
