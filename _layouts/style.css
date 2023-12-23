@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+.body {
+  background: radial-gradient(circle farthest-side, #fae3e3, #b7b7b7);
+}
